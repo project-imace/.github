@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this repository from Project IMACE, please cite it using the metadata below."
+title: "Project IMACE: <REPOSITORY TITLE>"
+type: software
+
+authors:
+  - name: "Project IMACE"
+    affiliation: "Project IMACE Research Coordination Committee; The Altern Research; The Altern Research Collective for Brains, Minds and Machines"
+    email: "research@imace.online"
+
+abstract: >
+  This repository is part of Project IMACE (Integrated Modular Architecture
+  for Cognitive Emulation), an open, multidisciplinary research initiative
+  focused on developing theoretically grounded and empirically validated
+  frameworks for cognitive emulation in artificial systems.
+
+keywords:
+  - cognitive emulation
+  - cognitive architecture
+  - artificial intelligence
+  - interpretability
+  - modular systems
+  - human-ai interaction
+  - open research
+
+license: "SEE LICENSE IN REPOSITORY"
+
+repository-code: "https://github.com/project-imace/<REPO-NAME>"
+url: "https://github.com/project-imace/<REPO-NAME>"
+homepage: "https://imace.online"
+
+preferred-citation:
+  type: software
+  title: "Project IMACE: <REPOSITORY TITLE>"
+  authors:
+    - name: "Project IMACE"; <Mentioned in the Repo>
+      affiliation: "Project IMACE Research Coordination Committee; The Altern Research; The Altern Research Collective for Brains, Minds and Machines"; <Mentioned in the Repo>
+  year: 2026
+  url: "https://github.com/project-imace/<REPO-NAME>"
