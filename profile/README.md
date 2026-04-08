@@ -205,7 +205,7 @@ It is not a product. It is a research program.
 </p>
 
 <p align="center">
-  <sub>A Cross-ARC Research Program of The Altern Research, supported by ArcAMI</sub>
+  <sub>A Cross-ARC Research Program of The Altern Research, supported by ArcBMM</sub>
 </p>
 
 <p align="center">
