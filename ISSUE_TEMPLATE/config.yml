@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project IMACE Research Contact
+    url: mailto:research@imace.online
+    about: Use this for research coordination, proposals, and general research-related questions.
+
+  - name: Project IMACE Sponsorship
+    url: mailto:sponsor@imace.online
+    about: Use this for sponsorship, support, collaboration, and resource-related inquiries.
+
+  - name: Project IMACE Governance Contact
+    url: mailto:cro@imace.online
+    about: Use this for matters requiring direct coordination with the Chief Research Organiser.
