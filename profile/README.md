@@ -6,8 +6,8 @@
 <h3 align="center">Integrated Modular Architecture for Cognitive Emulation</h3>
 
 <p align="center">
-  <a href="https://github.com/project-imace/.github">
-    <img src="assets/imace_banner.gif" width="100%" alt="Project IMACE Banner"/>
+  <a href="https://github.com/project-imace/charter/blob/main/README.md">
+    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/imace_charter.gif" width="100%" alt="Project IMACE Charter Banner"/>
   </a>
 </p>
 
@@ -15,7 +15,7 @@
   <a href="https://github.com/project-imace/.github">
     <img src="https://img.shields.io/badge/Organization-.github-black?style=for-the-badge&logo=github" alt="Organization"/>
   </a>
-  <a href="https://github.com/project-imace/charter">
+  <a href="https://github.com/project-imace/charter/blob/main/CHARTER.md">
     <img src="https://img.shields.io/badge/Governance-Charter-1d4ed8?style=for-the-badge" alt="Charter"/>
   </a>
   <a href="https://github.com/project-imace/charter/blob/main/LICENSING.md">
@@ -28,9 +28,13 @@
 
 ---
 
+<p align="center">
+  <strong>✦ Researching cognition as structure, not opacity ✦</strong>
+</p>
+
 ## Overview
 
-**Project IMACE** is an independent, open, multidisciplinary research initiative dedicated to developing a rigorous understanding of cognition and its emulation in artificial systems.
+**Project IMACE** is an **independent, open, multidisciplinary research initiative** dedicated to developing a rigorous understanding of cognition and its emulation in artificial systems.
 
 It is not framed as a product or a benchmark exercise. It is a long-term research effort focused on making cognition legible, modular, and computationally meaningful.
 
@@ -42,39 +46,47 @@ Project IMACE brings together cognitive science, psychology, artificial intellig
 
 ---
 
+<p align="center">
+  <strong>✦ Research Atlas ✦</strong>
+</p>
+
 ## Research Atlas
 
 <p align="center">
   <a href="https://github.com/project-imace/charter/blob/main/CHARTER.md">
-    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/banner/imace_structure.svg" width="100%" alt="Charter and Structure"/>
+    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/imace_structure.svg" width="100%" alt="Charter and Structure"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/project-imace/charter/blob/main/RESEARCH_SCOPE.md">
-    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/banner/imace_researchscope.svg" width="100%" alt="Research Scope"/>
+    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/imace_researchscope.svg" width="100%" alt="Research Scope"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/project-imace/charter/blob/main/AFFILIATIONS.md">
-    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/banner/imace_affiliation.svg" width="100%" alt="Affiliation"/>
+    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/imace_affiliation.svg" width="100%" alt="Affiliation"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/project-imace/charter/blob/main/COLLABORATION.md">
-    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/banner/imace_collaboration.svg" width="100%" alt="Collaboration"/>
+    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/imace_collaboration.svg" width="100%" alt="Collaboration"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/project-imace/charter/blob/main/LICENSING.md">
-    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/banner/imace_policies.svg" width="100%" alt="Licensing and Policies"/>
+  <a href="https://github.com/project-imace/charter/blob/main/IP_POLICY.md">
+    <img src="https://raw.githubusercontent.com/project-imace/charter/main/assets/imace_policies.svg" width="100%" alt="Policies and IP"/>
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <strong>✦ Core Documentation ✦</strong>
+</p>
 
 ## Core Documentation
 
@@ -104,6 +116,10 @@ This repository defines the public-facing organization layer.
 </p>
 
 ---
+
+<p align="center">
+  <strong>✦ Research Workflow ✦</strong>
+</p>
 
 ## Research Workflow
 
@@ -144,6 +160,10 @@ Branching may be customized by repository when needed.
 
 ---
 
+<p align="center">
+  <strong>✦ Participation ✦</strong>
+</p>
+
 ## Participation
 
 <p align="center">
@@ -162,14 +182,23 @@ Project IMACE welcomes contributors, collaborators, reviewers, volunteers, inter
 
 ---
 
+<p align="center">
+  <strong>✦ Licensing ✦</strong>
+</p>
+
 ## Licensing Model
 
 Project IMACE uses a repository-level licensing model.
 
 Refer to:
+
 <a href="https://github.com/project-imace/charter/blob/main/LICENSING.md">Licensing Policy</a>
 
 ---
+
+<p align="center">
+  <strong>✦ Citation ✦</strong>
+</p>
 
 ## Citation and Attribution
 
@@ -180,6 +209,10 @@ Each repository includes its own citation metadata.
 - citations should point to the specific repository being used
 
 ---
+
+<p align="center">
+  <strong>✦ Contact ✦</strong>
+</p>
 
 ## Contact
 
