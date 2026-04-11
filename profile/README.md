@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.svg" height="96" alt="Project IMACE Logo"/>
-</p>
-
 <h1 align="center">Project IMACE</h1>
 <h3 align="center">Integrated Modular Architecture for Cognitive Emulation</h3>
 
